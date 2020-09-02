@@ -1,0 +1,27 @@
+header {
+    text-align: center;
+    height: 45px;
+    background-color:black;
+}
+a {
+    font-family: Arial, sans-serif, "Times New Roman";
+    font-size: 25px;
+    margin: 15px;
+    margin-bottom: 30px;
+    text-decoration: none;
+    color: white;
+}
+body {
+    background-image: url(Images/stars.jpg);
+    background-color: black;
+}
+h1 {
+    color: white;
+    text-align:center;
+    margin: 300px auto 0 auto;
+}
+p {
+    color:white;
+    text-align:center;
+    margin: 30px auto 300px auto;
+}
